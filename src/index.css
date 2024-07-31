@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "@fontsource/poppins";
+@import "@fontsource/poppins/900.css";
+@import "@fontsource/poppins/400-italic.css";
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
